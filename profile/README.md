@@ -94,6 +94,8 @@ Eunoia tracks growth in a way that feels encouraging — not demanding.
 Eunoia is free with ads to keep the project alive.
 A future premium option will remove ads and unlock advanced features.
 
+▶️ Get it on **[Google Play](https://play.google.com/store/apps/details?id=in.eunoialife.eunoiaapp)**
+
 ---
 
 ```
