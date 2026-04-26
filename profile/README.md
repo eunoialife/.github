@@ -1,4 +1,4 @@
-## Welcome to EunoiaLife — A Revolution for the Neuro-divergence 
+# Welcome to EunoiaLife — A Revolution for the Neuro-divergence 
 
 Eunoia is not another general wellness app.
 It’s built for people dealing with OCD, anxiety, ADHD, intrusive thoughts, and urges — especially when managing things alone get worse.
