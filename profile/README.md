@@ -1,3 +1,7 @@
+<div>
+  <img src="https://sflanvgqsykekmhingoh.supabase.co/storage/v1/object/public/public_assets/banner/eunoia-header-banner.png" alt="EunoiaLife Banner" height="300"/>
+</div>
+
 ## Welcome to EunoiaLife — A Revolution for the Neuro-divergence 
 
 Eunoia is not another general wellness app.
